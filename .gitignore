@@ -1,0 +1,5 @@
+.venv/
+pages/
+__pycache__/
+.ipynb_checkpoints/
+report.html

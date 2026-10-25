@@ -1,0 +1,19 @@
+{
+ "part3": {
+  "Q1": 295,
+  "Q2": 273,
+  "Q3": 274,
+  "Q4": 284,
+  "Q5": 269,
+  "Q6": 278,
+  "Q7": 272,
+  "Q8": 290
+ },
+ "part4": {
+  "Direct answer": 45,
+  "Why a single number fails": 336,
+  "Grounding in numbers": 61,
+  "Closing": 56
+ },
+ "part4_total": 498
+}
